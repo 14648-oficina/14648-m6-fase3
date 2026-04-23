@@ -8,7 +8,7 @@
   <h3> Gestão de Equipamento </h3>
   <details>
   <summary>Funcões</summary>
-  <img src="https://a14648-oficina.infinityfree.me/images/gestao1.png" width="640" height="480" allow="autoplay">
+  <img src="https://a14648-oficina.infinityfree.me/images/gestao1.png" width="auto" height="480" allow="autoplay">
   <ul>
     <li>Adicionar Equipamentos novos conforme a sala, tipo, marca e IP</li>
     <li>Editar Equipamentos na Base de Dados</li>
