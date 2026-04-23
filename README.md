@@ -7,15 +7,11 @@
 <h2> Este Site, feito com HTML PHP e SQL possui 4 funcionalidades principais</h2>
   <h3> Gestão de Equipamento </h3>
   <details>
-  <summary></summary>
+  <summary>Funcões</summary>
+  <img src="https://a14648-oficina.infinityfree.me/images/gestao1.png" width="640" height="480" allow="autoplay">
   <ul>
-    <li>ID_Computador (PK)</li>
-    <li>Nome_Computador</li>
-    <li>Processador</li>
-    <li>RAM</li>
-    <li>Armazenamento</li>
-    <li>Placa_Grafica</li>
-    <li>Sistema_Operativo</li>
-    <li>ID_Sala(FK)</li>
+    <li>Adicionar Equipamentos novos conforme a sala, tipo, marca e IP</li>
+    <li>Editar Equipamentos na Base de Dados</li>
+    <li>Apagar Equipamentos da Base de Dados</li>
   </ul>
 </details>
