@@ -7,8 +7,9 @@
 <h2> Este Site, feito com HTML PHP e SQL possui 4 funcionalidades principais</h2>
   <h3> Gestão de Equipamento </h3>
   <details>
-  <summary>Funcões</summary>
   <img src="https://a14648-oficina.infinityfree.me/images/gestao1.png" width="auto" height="480" allow="autoplay">
+  <summary>Funcões</summary>
+  <img src="https://a14648-oficina.infinityfree.me/images/gestao2.png" width="auto" height="480" allow="autoplay">
   <ul>
     <li>Adicionar Equipamentos novos conforme a sala, tipo, marca e IP</li>
     <li>Editar Equipamentos na Base de Dados</li>
