@@ -6,8 +6,8 @@
 
 <h2> Este Site, feito com HTML PHP e SQL possui 4 funcionalidades principais</h2>
   <h3> Gestão de Equipamento </h3>
-  
-  <summary>Computadores</summary>
+  <details>
+  <summary></summary>
   <ul>
     <li>ID_Computador (PK)</li>
     <li>Nome_Computador</li>
@@ -18,3 +18,4 @@
     <li>Sistema_Operativo</li>
     <li>ID_Sala(FK)</li>
   </ul>
+</details>
