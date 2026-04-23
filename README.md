@@ -6,18 +6,15 @@
 
 <h2> Este Site, feito com HTML PHP e SQL possui 4 funcionalidades principais</h2>
   <h3> Gestão de Equipamento </h3>
-  <details>
-  <summary></summary>
-  <details>
-    <summary>Computadores</summary>
-    <ul>
-      <li>ID_Computador (PK)</li>
-      <li>Nome_Computador</li>
-      <li>Processador</li>
-      <li>RAM</li>
-      <li>Armazenamento</li>
-      <li>Placa_Grafica</li>
-      <li>Sistema_Operativo</li>
-      <li>ID_Sala(FK)</li>
-    </ul>
-  </details>
+  
+  <summary>Computadores</summary>
+  <ul>
+    <li>ID_Computador (PK)</li>
+    <li>Nome_Computador</li>
+    <li>Processador</li>
+    <li>RAM</li>
+    <li>Armazenamento</li>
+    <li>Placa_Grafica</li>
+    <li>Sistema_Operativo</li>
+    <li>ID_Sala(FK)</li>
+  </ul>
