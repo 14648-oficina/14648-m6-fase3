@@ -15,4 +15,17 @@
     <li>Editar Equipamentos na Base de Dados</li>
     <li>Apagar Equipamentos da Base de Dados</li>
   </ul>
-</details>
+  </details>
+
+  <h3> Gestão de Salas </h3>
+  <details>
+  <img src="https://a14648-oficina.infinityfree.me/images/gestao3.png" width="auto" height="480" allow="autoplay">
+  <summary>Funcões</summary>
+  <img src="https://a14648-oficina.infinityfree.me/images/gestao4.png" width="auto" height="480" allow="autoplay">
+  <ul>
+    <li>Adicionar Novas Salas</li>
+    <li>Editar Nome das Slas</li>
+    <li>Apagar Salas das bases de dados</li>
+  </ul>
+  </details>
+
