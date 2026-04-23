@@ -29,3 +29,15 @@
   </ul>
   </details>
 
+  <h3> Gestão de Técnicos</h3>
+  <details>
+  <img src="https://a14648-oficina.infinityfree.me/images/gestao5.png" width="auto" height="480" allow="autoplay">
+  <summary>Funcões</summary>
+  <img src="https://a14648-oficina.infinityfree.me/images/gestao6.png" width="auto" height="480" allow="autoplay">
+  <ul>
+    <li>Adicionar Novos Técnicos</li>
+    <li>Editar Detalhes sobre os Técnicos</li>
+    <li>Apagar Registros dos Técnicos na Base de Dados</li>
+  </ul>
+  </details>
+
